@@ -36,7 +36,7 @@
     "msw": "^2.0.0",
     "netlify-plugin-cache": "^1.0.3",
     "react-redux": "^9.1.0",
-    "vitest": "^4.0.5",
+    "vitest": "^4.1.0",
     "vitest-browser-react": "^2.0.2"
   },
   "scripts": {
