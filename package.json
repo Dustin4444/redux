@@ -63,7 +63,7 @@
     "@typescript-eslint/parser": "^7.3.1",
     "cross-env": "^7.0.3",
     "esbuild-extra": "^0.3.1",
-    "eslint": "^8.57.0",
+    "eslint": "^9.0.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-import-resolver-typescript": "^3.6.1",
     "eslint-plugin-import": "^2.29.1",
@@ -77,7 +77,7 @@
     "rxjs": "^7.8.1",
     "tsup": "8.0.2",
     "typescript": "^5.8.2",
-    "vitest": "^4.0.5"
+    "vitest": "^4.1.8"
   },
   "resolutions": {
     "@typescript-eslint/eslint-plugin": "7.3.1",
